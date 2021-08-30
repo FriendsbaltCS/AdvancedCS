@@ -16,8 +16,8 @@ public class RandomStream {
 		
 	}
 	
-	/**
-	* Helper method to get the next line of a stream. Remember that once you advance
+    /**
+    * Helper method to get the next line of a stream. Remember that once you advance
     * to the next line of the stream, you cannot return to a previous line!
     *
     * @return the next line of the input stream from StdIn. An empty string "" is
