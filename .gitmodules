@@ -1,0 +1,3 @@
+[submodule "Streaming-Content"]
+	path = Streaming-Content
+	url = https://github.com/jahAtFriends/Streaming-Content.git
