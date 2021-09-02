@@ -1,3 +1,6 @@
 [submodule "Streaming-Content"]
 	path = Streaming-Content
 	url = https://github.com/jahAtFriends/Streaming-Content.git
+[submodule "Percolation"]
+	path = Percolation
+	url = https://github.com/jahAtFriends/Percolation.git
