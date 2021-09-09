@@ -5,3 +5,6 @@
 	path = Percolation
 	url = https://github.com/jahAtFriends/Percolation.git
 
+[submodule "BigOLab"]
+	path = BigOLab
+	url = https://github.com/jahAtFriends/BigOLab.git
