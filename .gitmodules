@@ -8,3 +8,9 @@
 [submodule "BigOLab"]
 	path = BigOLab
 	url = https://github.com/jahAtFriends/BigOLab.git
+[submodule "BuffonsNeedle"]
+	path = BuffonsNeedle
+	url = https://github.com/jahAtFriends/BuffonsNeedle.git
+[submodule "Interface-Arcade"]
+	path = Interface-Arcade
+	url = https://github.com/jahAtFriends/Interface-Arcade.git
